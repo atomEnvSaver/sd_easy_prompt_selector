@@ -32,7 +32,7 @@ def write_filename_list():
     with open(TEMP_DIR.joinpath(FILENAME_LIST), 'w', encoding="utf-8") as f:
         f.write('\n'.join(sorted(filepaths)))
 
-# if len(list(TAGS_DIR.rglob("*.yml"))) == 0:
-#     copy_examples()
+if len(list(TAGS_DIR.rglob("*.yml"))) == 0:
+    copy_examples()
 
 write_filename_list()
