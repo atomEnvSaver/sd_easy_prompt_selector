@@ -1,4 +1,4 @@
-目: 
+目:
  色:
   黒: black eyes
   白: white eyes
@@ -14,7 +14,7 @@
   ピンク: pink eyes
   オレンジ: orange eyes
   オッドアイ: heterochromia
-  状態:
+ 状態:
   半目: half-closed eyes
   閉じた目: closed eyes
 
@@ -25,16 +25,16 @@
   キツネ耳: fox ears
 
  髪型:
-  ロングヘア	:	long hair
-  ボブカット	:	bob cut
-  ロングボブ	:	Long bob
-  ミディアムボブ	:	Medium bob
-  ショートボブ	:	Short bob
-  ショートヘア	:	short hair
-  ミディアムヘア	:	medium hair
-  ワンレングス	:	One-length hair
-  ポニーテール	:	ponytail
-  ハイポニー	:	High ponytail
+  ロングヘア: long hair
+  ボブカット: bob cut
+  ロングボブ: Long bob
+  ミディアムボブ: Medium bob
+  ショートボブ: Short bob
+  ショートヘア: short hair
+  ミディアムヘア: medium hair
+  ワンレングス: One-length hair
+  ポニーテール: ponytail
+  ハイポニー: High ponytail
 
  表情:
   笑い: smile
