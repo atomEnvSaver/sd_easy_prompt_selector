@@ -1,40 +1,91 @@
-目:
- 色:
-  黒: black eyes
-  白: white eyes
-  赤: red eyes
-  青: blue eyes
-  緑: green eyes
-  紫: purple eyes
-  銀色: silver eyes
-  金色: golden eyes
-  灰色: gray eyes
-  水色: aqua eyes
-  茶色: brown eyes
-  ピンク: pink eyes
-  オレンジ: orange eyes
-  オッドアイ: heterochromia
- 状態:
-  半目: half-closed eyes
-  閉じた目: closed eyes
+顔:
+ 目:
+  色:
+   黒: black eyes
+   白: white eyes
+   赤: red eyes
+   青: blue eyes
+   緑: green eyes
+   紫: purple eyes
+   銀色: silver eyes
+   金色: golden eyes
+   灰色: gray eyes
+   水色: aqua eyes
+   茶色: brown eyes
+   ピンク: pink eyes
+   オレンジ: orange eyes
+   オッドアイ: heterochromia
+   グラデーション: gradient eyes
+
+  状態:
+   半目: half closed eyes
+   閉じた目: closed eyes
+   髪から透けて目が見える錨鎖y: eyes visible through hair bangs
+   かためとじ: one eye closed
+   はんめ: half closed eyes
+   オッドアイ: heterochromia
+   狂気の瞳: crazy eyes
+   強烈な快感: dashed eyes
+   ハート目: heart shaped eyes
+   目が点: solid circle eyes
+   タレ目: tareme
+   つり目: tsurime
+   三白眼: sanpaku
+   涙: tear
+   片目閉じ: one eye closed
+   瞳に光硬化: glowing eyes
+   虚ろ眼: empty eyes
+   シンプル目: simple eyes
+   動向が白描画: pupils
+   動向描写薄: no pupils
+   ピンク光動向: glowing pink pupils
+   寄り目: cross eyed
+   瞳孔小さい: constricted pupils
+   瞳孔が十字kira: pupils sparkling
+   星型瞳孔: star shaped pupils
+
+  視線:
+   カメラ目線: looking at viewer
+   見上げる: looking up at viewer
+   見下ろす: looking down at viewer
+   キャラ同士見つめ合う: eye contact
+   遠い視線: looking afar
+   体方向の視線: looking ahead
+   向こうを向いている: looking away
+   別の何かを見ている: looking at another
+   横を見ている: looking to the side
+   旨を見ている: looking at breasts
+   手を見ている: looking at hand
+   鏡を見ている: looking at mirror
+   スマホを見ている: looking at phone
+   振り向く: looking back
+   下を見ている: :looking down
+   外を見ている: looking outside
+   メガネをずらしている: looking over eyewear
+   エロ前屈: looking through legs
+   上を見ている: looking up
+
+ 口:
+  唇: lip
+  開いた口: open mouth
+  閉じた口: closed mouth
+  歯: teeth
+  出っ歯: buck teeth
+  上の歯: upper teeth
+  丸い歯: round teeth
+  ギザギザ歯: clenched teeth
+  牙: fang
+  舌舐めずり: licking lips
+  舌だし: tongue out
+  長舌: long tongue
+  てへぺろ: tehepero
+  よだれ: saliva
 
  耳:
   エルフ耳: elf ears
   ケモミミ: animal ears
   ネコミミ: cat ears
   キツネ耳: fox ears
-
- 髪型:
-  ロングヘア: long hair
-  ボブカット: bob cut
-  ロングボブ: Long bob
-  ミディアムボブ: Medium bob
-  ショートボブ: Short bob
-  ショートヘア: short hair
-  ミディアムヘア: medium hair
-  ワンレングス: One-length hair
-  ポニーテール: ponytail
-  ハイポニー: High ponytail
 
  表情:
   笑い: smile
@@ -56,7 +107,7 @@
   闇堕ち: dark persona
   ドヤ顔: doyagao
   頬染め: blush
-  頬染め(強): full-face blush
+  頬染め(強): full face blush
   退屈: bored
   罪悪感: guilt
   無感情: expressionless
@@ -68,23 +119,7 @@
   嫌悪: disgust
   困惑: confused
   困り眉: troubled eyebrows
-  怒り眉: v-shaped eyebrows
+  怒り眉: v shaped eyebrows
   羞恥: embarrassed
   いたずら顔: naughty
   眠気: sleepy
-
- 口:
-  唇: lip
-  開いた口: open mouth
-  閉じた口: closed mouth
-  歯: teeth
-  出っ歯: buck teeth
-  上の歯: upper teeth
-  丸い歯: round teeth
-  ギザギザ歯: clenched teeth
-  牙: fang
-  舌舐めずり: licking lips
-  舌だし: tongue out
-  長舌: long tongue
-  てへぺろ: tehepero
-  よだれ: saliva
